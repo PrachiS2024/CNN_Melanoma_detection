@@ -43,7 +43,7 @@
 
 ## Acknowledgements
 Give credit here.
-- This project was an assignment by IIIT-B_Upgrad for the Executive Post-graduate Programme Course
+- This project was an assignment by IIIT-B_Upgrad as part of the Executive Post-graduate Programme Course
 
 
 ## Contact
